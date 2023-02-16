@@ -1,0 +1,12 @@
+5
+what is the name of our planet?
+earth
+how many planets in the solar system?
+8
+How many continents on earth?
+7
+How many states in USA ? (ignore Washington D.C.)
+50
+What animal is on the flag of egypt?
+eagle
+
