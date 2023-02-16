@@ -2,7 +2,7 @@ import os
 
 file = os.path.join(os.path.dirname(__file__), 'questions.txt')
 ins = os.path.join(os.path.dirname(__file__), 'instructions.txt')
-students = os.path.join(os.path.dirname(__file__), 'g.txt')
+students = os.path.join(os.path.dirname(__file__), 'points.txt')
 
 Model_answer = open(file,  "r")
 instructions = open(ins , "r")
